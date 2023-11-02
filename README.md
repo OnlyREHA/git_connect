@@ -5,7 +5,7 @@
 시작버튼에서 Git Bash 열기(실행)
 
 ```
-git config --global user .name "reha"
+git config --global user.name "reha"
 ```
 
 GitHub 이메일이랑 동일해야함.
