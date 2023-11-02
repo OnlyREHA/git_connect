@@ -26,6 +26,8 @@ git config --list
 
 ### GitHub에 코드 업로드 하기
 
+## vscode reha폴더 업로드 파일 올려서 뉴터미널
+
 1.초기화
 
 ```
