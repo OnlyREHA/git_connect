@@ -41,12 +41,39 @@ git add .
 ```
 
 
-2.히스토리 만들기
+3.히스토리 만들기
 
 ```
 git commit -m "내가 적고싶은 메세지"  --
 ```
 -메세지에는 한글이 가능하다.
+- -m 메세지의 준말
+
+
+4.GitHub repository랑 내 로컬 프로젝트랑 연결 
+
+-프로젝트를 올릴 repository를 먼저 만들어야함
+
+-아래주소는 내가 만든 repository에서 복사해서 가져와야한다 ( repository만들때 readme 선택하지말기)
+
+
+5. 연결 확인
+
+
+```
+git remote -v
+```
+
+
+6.GitHub에 자료 올리기
+
+
+```
+git push origin master
+```
+
+
+
 
 
 
