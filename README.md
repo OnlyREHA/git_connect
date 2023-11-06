@@ -39,7 +39,7 @@ git init
 2.파일 올리기
 
 ```
-git add .
+git add 
 ```
 
 
