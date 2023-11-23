@@ -26,7 +26,7 @@ git config --list
 
 ### GitHub에 코드 업로드 하기
 
-## vscode reha폴더 업로드 파일 올려서 뉴터미널
+### vscode reha폴더 업로드 파일 올려서 뉴터미널
 
 1.초기화
 
@@ -81,6 +81,43 @@ git push origin master
 vscode ../ -> ..을 빼고 네트리주소 넣기,
 
 깃허브 ../ -> ..을 빼고 네트리주소 넣기
+
+
+--------------------------------------------------
+
+
+### GitHub에 계속 업데이트 하는 방법
+
+1. 추가할 파일 더하기
+
+```
+git add .
+```
+
+
+2. 히스토리 만들기
+
+```
+git commit -m ""
+```
+
+3. GitHub에 올리기
+
+```
+git push origin master
+```
+
+📌 다시 GitHub의 내용을 끌어와야함
+
+```
+git pull origin master
+```
+
+내용을 끌어와서
+2. 히스토리 만들기부터 재시작
+
+
+
 
 
 
