@@ -114,6 +114,7 @@ git pull origin master
 ```
 
 내용을 끌어와서
+
 2. 히스토리 만들기부터 재시작
 
 
