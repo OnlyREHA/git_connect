@@ -118,6 +118,44 @@ git pull origin master
 2번 히스토리 만들기부터 재시작
 
 
+### react 배포하기
+
+- My JSON Server 페이지 들어가서 
+
+![image](https://github.com/OnlyREHA/git_connect/assets/145514740/e24637d9-58a5-4d9c-9c1c-edc121efcdd2)
+
+```
+https://my-json-server.typicode.com/<your-username>/<your-repo>
+```
+
+![image](https://github.com/OnlyREHA/git_connect/assets/145514740/e7786bf9-f249-4e36-ad81-45e5ce75fb02)
+
+입력하기
+
+그리고 똑같이 GitHub에 폴더주소 만들기 
+
+vscode에 터미널 똑같이 입력해서 주소 연결하기
+
+![image](https://github.com/OnlyREHA/git_connect/assets/145514740/5fcad4a2-2ec2-4625-a2b8-cb4738fb1bd1)
+
+올라간 파일 들어가서 변경해주기 내 github이름과 폴더 이름 넣어주기 -> ProductDetail.js에도 주소 변경해주기
+
+ -> Netlify로 가서 수정하기
+
+ 똑같이 올려주고 
+
+ ![image](https://github.com/OnlyREHA/git_connect/assets/145514740/d3be07b1-7e94-411b-8004-ca90f5a46cbf)
+
+ 이 부분만 고쳐서 올리기
+
+
+
+
+
+
+
+
+
 
 
 
